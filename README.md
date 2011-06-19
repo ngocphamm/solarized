@@ -10,7 +10,7 @@ Solarized
 
 ## Precision colors for machines and people
 
-[![solarized dualmode](https://github.com/tokanizar/solarized/blob/origin/img/solarized-yinyang.png)](#features)\
+[![solarized dualmode](https://github.com/tokanizar/solarized/raw/master/img/solarized-yinyang.png)](#features)\
 
 
 Solarized is a sixteen color palette (eight monotones, eight accent colors) 
@@ -24,7 +24,7 @@ conditions.
 
 ***See the [changelog] for what's new in the most recent release.***
 
-![solarized vim](https://github.com/tokanizar/solarized/blob/origin/img/solarized-vim.png)\
+![solarized vim](https://github.com/tokanizar/solarized/raw/master/img/solarized-vim.png)\
 
 
 Where I use it for
