@@ -16,11 +16,11 @@
 				<key>foreground</key>
 				<string>#586e75</string>
 				<key>invisibles</key>
-				<string>#eae3c9</string>
+				<string>#93A1A180</string>
 				<key>lineHighlight</key>
 				<string>#eee8d54f</string>
 				<key>selection</key>
-				<string>#93a1a1ff</string>
+				<string>#073642</string>
 			</dict>
 		</dict>
 		<dict>
